@@ -41,7 +41,7 @@ body {
 }
 
 .jumbotron-fluid {
-    background-image: url("/home/darwin/Desktop/delani/imgs/h_img.jpg");
+    background-image: url("./css/assets/h_img.jpg");
     background-size: cover;
     height: 668px;
 }
