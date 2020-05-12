@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: auto;
+    background-color: whitesmoke;
+}
+
+.container {
+    margin: inherit;
+    width: inherit;
+}
+
+.first-text {
+    background: transparent;
+    font-weight: bold;
+    text-align: center;
+    font-size-adjust: auto;
+    font-size: 60px;
+    color: white;
+    text-emphasis: bold;
+}
+
