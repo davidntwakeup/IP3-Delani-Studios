@@ -21,3 +21,51 @@ body {
     background-color: rgba(0, 0, 0, 0.6);
     height: 668px;
 }
+
+.overlay > img, .h-text {
+    position: relative;
+    top: 33%;
+}
+.h-text{
+    font-family: 'Comfortaa', cursive;
+}
+.smaller-text{
+    font-family: 'Ubuntu Mono', monospace;
+}
+.overlay > img, .welcome {
+    margin-bottom: 30px;
+}
+
+.click {
+    margin-top: 330px;
+}
+
+.jumbotron-fluid {
+    background-image: url("/home/darwin/Desktop/delani/imgs/h_img.jpg");
+    background-size: cover;
+    height: 668px;
+}
+#bounce {
+    animation: bounce 3s infinite;
+}
+
+@keyframes bounce {
+    0%, 20%, 50%, 80%, 100% {
+        transform: translateY(0);
+    }
+    40% {
+        transform: translateY(-55px);
+    }
+    60% {
+        transform: translateY(-45px);
+    }
+}
+
+.about {
+    height: 250px;
+}
+
+.about h1 {
+    margin-top: 30px;
+}
+
