@@ -1,5 +1,5 @@
 # Delani Studios
-### This is an online agency studio. Intended to display online freelance services offered, 04/24/2020
+### This is an online agency studio. Intended to display online freelance services offered, 05/14/2020
 ### By Zahid Awadh
 #### Description
 Delani studio, demo studio site built with bootstrap.
