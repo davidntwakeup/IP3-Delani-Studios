@@ -1,5 +1,5 @@
 # Delani Studios
-### This is a agency studio intended to display what services offered, 04/24/2020
+### This is an agency studio intended to display what services offered, 04/24/2020
 ### By Zahid Awadh
 #### Description
 Delani studio, demo studio site built with bootstrap.
