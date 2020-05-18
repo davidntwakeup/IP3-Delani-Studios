@@ -6,6 +6,6 @@ Delani studio, demo studio site built with bootstrap.
 #### Instructions
 This is a website. Copy the URL and paste it in your browser or click on the link below.
 #### Link to live site
-[Portfolio GitHub Page](https://davidntwakeup.github.io/IP3-Delani-Studios/)
+[Delani studio](https://davidntwakeup.github.io/IP3-Delani-Studios/)
 #### License
 
