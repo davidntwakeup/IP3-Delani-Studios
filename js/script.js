@@ -47,7 +47,7 @@ $(function () {
   
     //Overlay images
   
-    $('.portimg').hover(function(){
+    $('.porting').hover(function(){
         $('.porttext',this).slideToggle('slow');
      }, function(){
         $('.porttext',this).slideToggle('slow');
